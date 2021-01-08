@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopDownShooterGame",
+			"Path": "C:\\Users\\zdinu\\Documents\\GitHub\\TopDownShooter\\TopDownShooterGame 4.26\\Source\\TopDownShooterGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopDownShooterGameEditor",
+			"Path": "C:\\Users\\zdinu\\Documents\\GitHub\\TopDownShooter\\TopDownShooterGame 4.26\\Source\\TopDownShooterGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
